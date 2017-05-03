@@ -1,0 +1,34 @@
+#!/bin/bash
+
+echo "SPC560BCxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC560BCxx/ChibiOS-RT_Demos_for_SPC560BCxx/resources
+
+echo "SPC560Bxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC560Bxx/ChibiOS-RT_Demos_for_SPC560Bxx/resources
+
+echo "SPC560Dxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC560Dxx/ChibiOS-RT_Demos_for_SPC560Dxx/resources
+
+echo "SPC560Pxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC560Pxx/ChibiOS-RT_Demos_for_SPC560Pxx/resources
+
+echo "SPC563Mxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC563Mxx/ChibiOS-RT_Demos_for_SPC563Mxx/resources
+
+echo "SPC564Axx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC564Axx/ChibiOS-RT_Demos_for_SPC564Axx/resources
+
+echo "SPC56ECxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC56ECxx/ChibiOS-RT_Demos_for_SPC56ECxx/resources
+
+echo "SPC56ELxx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/SPC56ELxx/ChibiOS-RT_Demos_for_SPC56ELxx/resources
+
+echo "STM32F4xx Chibios Demo Folders update"
+cp -fR *     ../../Components/chibios/STM32F4xx/ChibiOS-RT_Demos_for_STM32F4xx/resources
+
+
+
+
+
+
