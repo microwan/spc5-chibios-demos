@@ -123,7 +123,7 @@
             <value>16</value>
           </buffers_size>
         </serial_driver_settings>
-        <adc_driver_settings>
+        <adc_driver_settings disabled="true">
           <enable_synchronous_functions disabled="true">
             <value>true</value>
           </enable_synchronous_functions>
@@ -131,27 +131,27 @@
             <value>false</value>
           </enable_mutual_exclusion_functions>
         </adc_driver_settings>
-        <can_driver_settings>
+        <can_driver_settings disabled="true">
           <enable_sleep_mode_functions disabled="true">
             <value>true</value>
           </enable_sleep_mode_functions>
         </can_driver_settings>
-        <i2c_driver_settings>
+        <i2c_driver_settings disabled="true">
           <enable_mutual_exclusion_functions disabled="true">
             <value>false</value>
           </enable_mutual_exclusion_functions>
         </i2c_driver_settings>
-        <mac_driver_settings>
+        <mac_driver_settings disabled="true">
           <enable_events disabled="true">
             <value>true</value>
           </enable_events>
         </mac_driver_settings>
-        <mmc_spi_driver_settings>
+        <mmc_spi_driver_settings disabled="true">
           <nice_waiting disabled="true">
             <value>true</value>
           </nice_waiting>
         </mmc_spi_driver_settings>
-        <spi_driver_settings>
+        <spi_driver_settings disabled="true">
           <enable_synchronous_functions disabled="true">
             <value>true</value>
           </enable_synchronous_functions>
@@ -212,7 +212,7 @@
                   <value>LOW</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
@@ -272,7 +272,7 @@
                   <value>LOW</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
@@ -332,7 +332,7 @@
                   <value>LOW</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
@@ -392,7 +392,7 @@
                   <value>LOW</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
@@ -452,7 +452,7 @@
                   <value>HIGH</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="1">
                   <value>Alternate 1</value>
                 </pa>
@@ -512,7 +512,7 @@
                   <value>HIGH</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
@@ -572,7 +572,7 @@
                   <value>LOW</value>
                 </latched_state>
               </settings>
-              <advanced>
+              <advanced disabled="true">
                 <pa disabled="true" index="0">
                   <value>GPIO Mode</value>
                 </pa>
