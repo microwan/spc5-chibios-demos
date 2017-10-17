@@ -2,7 +2,7 @@
 <SPC5-Config version="1.0.0">
   <application name="SPC56ELxx Test Application" version="1.0.0" standalone="true" locked="false">
     <description>Test application for the SPC56ELxx created using the SPC5's Application Wizard.</description>
-    <component id="com.st.tools.spc5.components.platform.spc56elxx" version="1.0.0">
+    <component id="com.st.tools.spc5.components.platform.spc56elxx" version="2.0.0">
       <component id="org.chibios.spc5.components.rtos.spc56elxx" version="2.6.4" />
       <component id="org.chibios.spc5.components.various.shell" version="2.6.4" />
       <component id="org.chibios.spc5.components.various.chprintf" />
