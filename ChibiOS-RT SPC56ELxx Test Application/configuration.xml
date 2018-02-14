@@ -196,10 +196,23 @@
                 <bit index="2">
                   <value>2</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="9">
                   <value>MODE_OUTPUT_ALTERNATE(1)</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>O</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>LINFlexD_0_TXD</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -246,10 +259,23 @@
                 <bit index="3">
                   <value>3</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="3">
                   <value>MODE_INPUT</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>I</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>LINFlexD_0_RXD</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -296,10 +322,23 @@
                 <bit index="0">
                   <value>0</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="3">
                   <value>MODE_INPUT</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>I</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO48</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="0">
                   <value>LOW</value>
@@ -346,10 +385,23 @@
                 <bit index="1">
                   <value>1</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="3">
                   <value>MODE_INPUT</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>I</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO49</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="0">
                   <value>LOW</value>
@@ -396,10 +448,23 @@
                 <bit index="2">
                   <value>2</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="3">
                   <value>MODE_INPUT</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>I</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO50</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="0">
                   <value>LOW</value>
@@ -446,10 +511,23 @@
                 <bit index="3">
                   <value>3</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="3">
                   <value>MODE_INPUT</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>I</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO51</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="0">
                   <value>LOW</value>
@@ -496,10 +574,23 @@
                 <bit index="4">
                   <value>4</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>O</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO52</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -546,10 +637,23 @@
                 <bit index="5">
                   <value>5</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>O</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO53</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -596,10 +700,23 @@
                 <bit index="6">
                   <value>6</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>O</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO54</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -646,10 +763,23 @@
                 <bit index="7">
                   <value>7</value>
                 </bit>
+                <metadatas>
+                  <metadata name="active" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                    <value>NONE</value>
+                  </metadata>
+                </metadatas>
               </pin_identification>
               <settings>
                 <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
+                  <metadatas>
+                    <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>O</value>
+                    </metadata>
+                    <metadata name="functionRef" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+                      <value>GPIO55</value>
+                    </metadata>
+                  </metadatas>
                 </pin_mode>
                 <latched_state index="1">
                   <value>HIGH</value>
@@ -820,6 +950,11 @@
               <value>-</value>
             </ps43>
           </alternate_inputs>
+          <metadatas>
+            <metadata name="refID" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
+              <value>SPC56EL60L5</value>
+            </metadata>
+          </metadatas>
         </i_o_settings>
         <initialization_code>
           <pre_clock_initialization_code>
