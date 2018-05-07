@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPC5-Config version="1.0.0">
+<SPC5-Config core_version="5.8.0" version="1.0.0">
   <application name="ChibiOS-RT SPC564Axx eQADC Example" version="1.0.0" standalone="true" locked="false">
     <description>This application shows how to use the eQADC unit found on the SPC564Axx platform.</description>
     <component id="com.st.tools.spc5.components.platform.spc564axx" version="2.0.0">
