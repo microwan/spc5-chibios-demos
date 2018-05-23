@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPC5-Config core_version="5.8.0" version="1.0.0">
+<SPC5-Config core_version="5.8.1" version="1.0.0">
   <application name="SPC560BCxx Test Application" version="1.0.0" standalone="true" locked="false">
     <description>Test application for the SPC560B/Cxx created using the SPC5's Application Wizard.</description>
     <component id="com.st.tools.spc5.components.platform.spc560bcxx" version="2.0.0">
@@ -32,14 +32,14 @@
           <application_name>
             <value>out</value>
           </application_name>
-          <compiler_variant index="0">
-            <value>ppc-freevle-eabi-</value>
+          <compiler_variant>
+            <value>FreeGCC with VLE support</value>
           </compiler_variant>
           <optimization_level index="3">
             <value>-O2 speed</value>
           </optimization_level>
           <common_options>
-            <value>-gdwarf-2 -fomit-frame-pointer -falign-functions=16 -mno-spe -msoft-float</value>
+            <value>-gdwarf-2 -fomit-frame-pointer -falign-functions=16 -fno-gcse</value>
           </common_options>
           <c_options>
             <value />
@@ -59,7 +59,7 @@
             <value>yes</value>
           </use_linker_gc>
           <linker_options>
-            <value />
+            <value>-lm -lc</value>
           </linker_options>
           <entry_point>
             <value>_reset_address</value>
