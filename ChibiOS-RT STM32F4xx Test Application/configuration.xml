@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPC5-Config core_version="5.8.0" version="1.0.0">
+<SPC5-Config core_version="5.8.1" version="1.0.0">
   <application name="STM32F4xx Test Application" version="1.0.0" standalone="true" locked="false">
     <description>Test application for the STM32F4xx created using the SPC5's Application Wizard.</description>
     <exportedFeatures />
